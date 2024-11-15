@@ -44,6 +44,8 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 ## PROGRAM:
 ```
+Name : Bharath Raj P
+Reg  :  2122223230031
 module ex07(j,k,clk,q,qbar);
 input j,k,clk;
 output reg q,qbar;
